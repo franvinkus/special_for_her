@@ -37,12 +37,12 @@ export default function Home() {
     {
       date: '30th april 2026', 
       event: 'I slept over at your place again but longer and took the first pict together',
-      image: '/picts/icons8-bed-50.png',
+      image: '/picts/icons8-photo-50.png',
     },
     {
       date: 'Random time', 
       event: 'Call when I am on my way home'
-      ,image: '/picts/icons8-photo-50.png',
+      ,image: '/picts/icons8-calling-24.png',
     },
     {
       date: 'Now', 
