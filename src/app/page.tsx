@@ -30,12 +30,12 @@ export default function Home() {
       image: '/picts/icons8-badminton-50.png',
     },
     {
-      date: '25th march 2026', 
+      date: '25th april 2026', 
       event: 'I slept over at your place for the first time and we made cheese "fudge"',
       image: '/picts/icons8-cake-50.png', 
     },
     {
-      date: '30th march 2026', 
+      date: '30th april 2026', 
       event: 'I slept over at your place again but longer and took the first pict together',
       image: '/picts/icons8-bed-50.png',
     },
