@@ -42,7 +42,7 @@ export default function Home() {
     {
       date: 'Random time', 
       event: 'Call when I am on my way home'
-      ,image: '/picts/icons8-calling-80.png',
+      ,image: '/picts/icons8-calling-64.png',
     },
     {
       date: 'Now', 
